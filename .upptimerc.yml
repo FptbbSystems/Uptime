@@ -1,7 +1,7 @@
 # Change these first
 owner: FptbbSystems # Your GitHub username
 repo: Uptime # Your Github repository name
-
+user-agent: fptbb
 # Add your sites here
 sites:
   - name: Fptbb.com
@@ -79,6 +79,17 @@ i18n:
   errorIntro: Um erro ocorreu tentando achar os ultimos dados de status.
   errorText: Tu pode tentar em alguns momentos.
   errorHome: Ir para a pagina inicial
+
+commitMessages:
+  readmeContent: ":pencil: Resumo da atualização do Readme.md [skip ci] [upptime]"
+  summaryJson: ":card_file_box: Resumo da atualização do Status [skip ci] [upptime]"
+  statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
+  graphsUpdate: ":bento: Atualiza os Graficos [skip ci] [upptime]"
+
+commitMessages:
+  commitAuthorName: "Fptbb Bot"
+  commitAuthorEmail: "bot@fptbb.com"
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

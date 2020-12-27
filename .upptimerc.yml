@@ -5,9 +5,9 @@ repo: Uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Fptbb.com
-    url: https://fptbb.com
+    url: https://fptbb.com/tempo
   - name: Ro-Brazil
-    url: https://robr.page
+    url: https://robr.page/tempo
   - name: Api Endpoint
     url: $API_SITE
 

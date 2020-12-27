@@ -1,34 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: FptbbSystems # Your GitHub username
+repo: Uptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Fptbb.com
+    url: https://fptbb.com
+  - name: Ro-Brazil
+    url: https://robr.page
+  - name: Api Endpoint
+    url: $API_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: up.fptbb.com
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.jsdelivr.net/gh/FptbbSystems/Uptime@master/fp.png
+  name: FpUptime
+  introTitle: "Estatisticas de boa parte dos meus sistemas, tudo aqui :D"
+  introMessage: Caso tenha alguma duvido, entre em contato comigo diretamente via [Email](mailto:lucas@fptbb.com)
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Essa Pagina
       href: https://github.com/$OWNER/$REPO
+    - title: Meu Github
+      href: https://github.com/fptbb
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

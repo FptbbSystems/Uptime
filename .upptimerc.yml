@@ -85,11 +85,8 @@ commitMessages:
   summaryJson: ":card_file_box: Resumo da atualização do Status [skip ci] [upptime]"
   statusChange: "$EMOJI $SITE_NAME é $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":bento: Atualiza os Graficos [skip ci] [upptime]"
-
-commitMessages:
   commitAuthorName: "Fptbb Bot"
   commitAuthorEmail: "bot@fptbb.com"
-
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

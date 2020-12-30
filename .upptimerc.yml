@@ -6,14 +6,19 @@ user-agent: fptbb
 sites:
   - name: Fptbb.com
     url: https://fptbb.com/tempo
+    __dangerous__insecure: true
   - name: Ro-Brazil
     url: https://robr.page/tempo
+    __dangerous__insecure: true
   - name: Ro-Paste
     url: https://paste.robr.page
+    __dangerous__insecure: true
   - name: Ro-Anime
     url: http://anime.fptbb.com
+    __dangerous__insecure: true
   - name: Api Endpoint
     url: $API_SITE
+    __dangerous__insecure: true
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
